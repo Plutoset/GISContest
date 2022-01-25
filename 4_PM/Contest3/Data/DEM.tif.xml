@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="GB2312"?><SuperMapImageConfig xmlns="http://www.supermap.com">
+<SuperMapStatisticsInfo>
+<RasterDataset Name="DEM">
+<Band_0>
+<IsDirty>0</IsDirty>
+<Min>929.000000</Min>
+<Max>3157.000000</Max>
+<Most/>
+<Least/>
+</Band_0>
+</RasterDataset>
+</SuperMapStatisticsInfo>
+</SuperMapImageConfig>
