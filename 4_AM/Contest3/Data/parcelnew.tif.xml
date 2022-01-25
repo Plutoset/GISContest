@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20151025</CreaDate><CreaTime>07542800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Conversion Tools.tbx\PolygonToRaster" Date="20151025" Time="075428">PolygonToRaster parcelnew Type E:\2015\试题2015\基础数据处理\试题\数据\parcelnew.tif CELL_CENTER NONE 22</Process></lineage></DataProperties></Esri></metadata>
