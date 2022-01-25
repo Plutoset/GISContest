@@ -1,0 +1,12 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="METADATATYPE">ODL</MDI>
+  </Metadata>
+  <Metadata domain="IMAGERY">
+    <MDI key="ACQUISITIONDATETIME">2010-05-24 02:21:56</MDI>
+    <MDI key="SATELLITEID">Landsat5</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+</PAMDataset>
